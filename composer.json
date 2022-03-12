@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "luohua/dream-contracts": "dev-master"
+        "luohua/dream-contracts": "dev-main"
     },
     "autoload": {
         "psr-4": {
